@@ -1,0 +1,2 @@
+# plot-PopGen-estimates
+R scripts for visualizing popgen estimates of heterozygosity, inbreeding, and relatedness in a whole-genome dataset consisting of 5 populations across two timepoints (N=10 groups). We calculated population genetic estimates using the program PLINK, options ```--het, --ibd, --homozyg, and --genome```. Please see the [plink documentation](https://www.cog-genomics.org/plink/) for details. 
