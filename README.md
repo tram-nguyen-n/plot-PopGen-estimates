@@ -22,7 +22,7 @@ This plot looks at site-based heterozygosity (as opppose to nucleotide diversity
 
 <img src="https://i.imgur.com/xDWgDNE.png" width=70% height=70%>
 
-This plot investigates the abundance and lengths of ROHs detected in BCFtools. Here I was comparing between PLINK and BCFtools detection of ROH and so this plot constraints ROH parameters to meet our PLINK parameters. This plot shows that our largest, most genetically diverse population of ONF has the fewest and shortest ROH, while our declining and most inbred population at JDSP (pink) has many more ROH that are also longer. 
+This plot investigates the abundance and lengths of ROHs detected in BCFtools. Here, I was comparing between PLINK and BCFtools detection of ROH and so this plot matches ROH parameters to meet our PLINK parameters. This plot shows that our largest, most genetically diverse population of ONF has the fewest and shortest ROH, while our declining and most inbred population at JDSP (pink) has many more ROH that are also longer which is expected given by population genetics predictions.
 
 <br />
 
