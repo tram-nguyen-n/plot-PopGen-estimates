@@ -2,7 +2,7 @@
 
 This repository contains R scripts for visualizing popgen estimates of heterozygosity, inbreeding, and relatedness in a whole-genome dataset consisting of 5 populations across two timepoints (N=10 groups). We calculated population genetic estimates using the program PLINK, options ```--het, --ibd, --homozyg, and --genome```. Please see the [plink documentation](https://www.cog-genomics.org/plink/) for details. Relatedness was measured as the shared proportion that is identical-by-descent (IBD) across pairwise comparisions of our individuals. Inbreeding was calculated as the proportion of the genome in runs-of-homozygosity (FROH) and was calculated in [BCFtools/roh](https://samtools.github.io/bcftools/howtos/roh-calling.html).
 
-Please note that this is an active project and scripts are all works-in-progress. Feel free to contact tn337@cornell.edu for details.
+Please note that this is an active project and scripts are all works-in-progress. 
 
 ## 
 
